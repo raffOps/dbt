@@ -1,0 +1,6 @@
+version: 2
+sources:
+    - name: stripe
+      schema: dbt_rribeiro
+      tables:
+        - name: payments
